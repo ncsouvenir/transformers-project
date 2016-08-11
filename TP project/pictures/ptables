@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+    </head>
+    <body>
+        
+       <div id="partners">    
+            <div class="table">
+                <table align="center">
+                    <tr>
+                        <a href="http://www.sadienash.org"><img src="pictures/sadienash.png"/><a/>
+                    </tr>
+                    
+                    <tr>
+                        <a href="https://education.lego.com/en-us/lesi/"><img src="pictures/lego.jpeg"/></a>
+                   </tr>
+                    
+                    <tr>
+                        <a href="http://www.summerlearning.org"><img src="pictures/nsla.jpg"/></a>
+                    </tr>
+                    
+                    <tr>
+                         <a href="http://www.blackgirlscode.com"><img src="pictures/bgc.png"/></a>
+                    </tr>
+                    
+                    <tr>
+                         <a href="http://www.girlsincnyc.org/"><img src="pictures/girlsincnyc.jpeg"/></a>
+                    </tr>
+                    
+                    <tr>
+                         <a href="http://www.uainstitute.com/"><img src="pictures/uai.jpeg"/></a>
+                    </tr>
+                    
+                    <tr>
+                         <a href="https://www.ywcanyc.org/"><img src="pictures/yw.jpeg"/></a>
+                    </tr>
+                    
+                    <tr>
+                       <a href="http://www.globalkids.org/"><img src="pictures/gkids.png"/></a>
+                    </tr>
+                    
+                     <tr>
+                        <a href="http://www.ywln.org/"><img src="pictures/tywlseh.jpeg"/></a>
+                    </tr>
+                </table>
+             </div>
+    </div> 
+        
+        
+
+    </body>
+</html>
